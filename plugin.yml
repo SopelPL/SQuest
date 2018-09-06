@@ -1,0 +1,9 @@
+main: pl.sopelplyt.questy.Main
+name: SQuest
+version: 1.0
+author: SopelPL
+commands:
+  zadania:
+    aliases: [wyzwania, questy, ]
+  quest:
+    aliases: [aquest, q]

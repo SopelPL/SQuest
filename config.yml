@@ -1,0 +1,13 @@
+quests:
+  kowal:
+    id: 0
+    name: "&a&lKowal"
+    desc: "Potzrebujesz 4 diamentow%n%&6Aby ukonczyc to zadanie"
+    lvl: 1
+    item: anvil
+    spawnXP: true
+    XP: 1
+    items:
+      - diamond:4
+    prices:
+      - dirt:2
